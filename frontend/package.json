@@ -1,0 +1,26 @@
+{
+  "name": "isl-learning-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0",
+    "axios": "^1.5.0",
+    "three": "^0.155.0",
+    "@react-three/fiber": "^8.13.0",
+    "@react-three/drei": "^9.88.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.1.0",
+    "vite": "^4.4.9",
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.29",
+    "autoprefixer": "^10.4.15"
+  }
+}
